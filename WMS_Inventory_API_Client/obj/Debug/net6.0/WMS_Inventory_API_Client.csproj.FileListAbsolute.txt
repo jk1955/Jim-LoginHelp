@@ -264,3 +264,14 @@
 /Users/jackjolliffe/Desktop/source/repos/Fantastic-6-Amigos-Final-Project/WMS_Inventory_API_Client/obj/Debug/net6.0/WMS_Inventory_API_Client.pdb
 /Users/jackjolliffe/Desktop/source/repos/Fantastic-6-Amigos-Final-Project/WMS_Inventory_API_Client/obj/Debug/net6.0/WMS_Inventory_API_Client.genruntimeconfig.cache
 /Users/jackjolliffe/Desktop/source/repos/Fantastic-6-Amigos-Final-Project/WMS_Inventory_API_Client/obj/Debug/net6.0/ref/WMS_Inventory_API_Client.dll
+/Users/jameskocsis/Documents/Jim/2022-Fall-Cohort/repos/Class_2022-Fall-Chort/Jack/20221122/Jim-LoginHelp/WMS_Inventory_API_Client/obj/Debug/net6.0/WMS_Inventory_API_Client.csproj.AssemblyReference.cache
+/Users/jameskocsis/Documents/Jim/2022-Fall-Cohort/repos/Class_2022-Fall-Chort/Jack/20221122/Jim-LoginHelp/WMS_Inventory_API_Client/obj/Debug/net6.0/WMS_Inventory_API_Client.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jameskocsis/Documents/Jim/2022-Fall-Cohort/repos/Class_2022-Fall-Chort/Jack/20221122/Jim-LoginHelp/WMS_Inventory_API_Client/obj/Debug/net6.0/WMS_Inventory_API_Client.AssemblyInfoInputs.cache
+/Users/jameskocsis/Documents/Jim/2022-Fall-Cohort/repos/Class_2022-Fall-Chort/Jack/20221122/Jim-LoginHelp/WMS_Inventory_API_Client/obj/Debug/net6.0/WMS_Inventory_API_Client.AssemblyInfo.cs
+/Users/jameskocsis/Documents/Jim/2022-Fall-Cohort/repos/Class_2022-Fall-Chort/Jack/20221122/Jim-LoginHelp/WMS_Inventory_API_Client/obj/Debug/net6.0/WMS_Inventory_API_Client.csproj.CoreCompileInputs.cache
+/Users/jameskocsis/Documents/Jim/2022-Fall-Cohort/repos/Class_2022-Fall-Chort/Jack/20221122/Jim-LoginHelp/WMS_Inventory_API_Client/obj/Debug/net6.0/WMS_Inventory_API_Client.MvcApplicationPartsAssemblyInfo.cache
+/Users/jameskocsis/Documents/Jim/2022-Fall-Cohort/repos/Class_2022-Fall-Chort/Jack/20221122/Jim-LoginHelp/WMS_Inventory_API_Client/obj/Debug/net6.0/WMS_Inventory_API_Client.RazorAssemblyInfo.cache
+/Users/jameskocsis/Documents/Jim/2022-Fall-Cohort/repos/Class_2022-Fall-Chort/Jack/20221122/Jim-LoginHelp/WMS_Inventory_API_Client/obj/Debug/net6.0/WMS_Inventory_API_Client.RazorAssemblyInfo.cs
+/Users/jameskocsis/Documents/Jim/2022-Fall-Cohort/repos/Class_2022-Fall-Chort/Jack/20221122/Jim-LoginHelp/WMS_Inventory_API_Client/obj/Debug/net6.0/WMS_Inventory_API_Client.dll
+/Users/jameskocsis/Documents/Jim/2022-Fall-Cohort/repos/Class_2022-Fall-Chort/Jack/20221122/Jim-LoginHelp/WMS_Inventory_API_Client/obj/Debug/net6.0/refint/WMS_Inventory_API_Client.dll
+/Users/jameskocsis/Documents/Jim/2022-Fall-Cohort/repos/Class_2022-Fall-Chort/Jack/20221122/Jim-LoginHelp/WMS_Inventory_API_Client/obj/Debug/net6.0/WMS_Inventory_API_Client.pdb
