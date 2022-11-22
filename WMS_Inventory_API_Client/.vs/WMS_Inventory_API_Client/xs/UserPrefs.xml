@@ -1,0 +1,51 @@
+﻿<Properties StartupConfiguration="{8E158262-730F-42DC-8CEC-42BCE26A9BCD}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.WMS__Inventory__API__Client PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Controllers/HomeController.cs">
+    <Files>
+      <File FileName="Views/Accounts/Index.cshtml" Line="1" Column="1" />
+      <File FileName="Views/Accounts/Delete.cshtml" Line="19" Column="14" />
+      <File FileName="Views/Accounts/Details.cshtml" Line="1" Column="1" />
+      <File FileName="Views/Accounts/Create.cshtml" Line="1" Column="1" />
+      <File FileName="Models/Account.cs" Line="1" Column="1" />
+      <File FileName="Controllers/AccountsController.cs" Line="1" Column="1" />
+      <File FileName="../WMS_Inventory_API/Models/Account.cs" Line="1" Column="1" />
+      <File FileName="../WMS_Inventory_API/Controllers/AccountsController.cs" Line="1" Column="1" />
+      <File FileName="../WMS_Inventory_API/InventoryContext.cs" Line="1" Column="1" />
+      <File FileName="../WMS_Inventory_API/Program.cs" Line="1" Column="1" />
+      <File FileName="Views/Accounts/Edit.cshtml" Line="1" Column="1" />
+      <File FileName="Services/AccountService.cs" Line="1" Column="1" />
+      <File FileName="Views/Container/Create.cshtml" Line="1" Column="1" />
+      <File FileName="Views/Container/Delete.cshtml" Line="1" Column="1" />
+      <File FileName="Program.cs" Line="1" Column="1" />
+      <File FileName="Controllers/HomeController.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="WMS_Inventory_API" expanded="True" />
+          <Node name="WMS_Inventory_API_Client" expanded="True">
+            <Node name="WMS_Inventory_API_Client" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="HomeController.cs" selected="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+              <Node name="Services" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Accounts" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
